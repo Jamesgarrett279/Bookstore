@@ -1,25 +1,3 @@
-/*
-
- * Class: CMSC226 CRN
-
- * Instructor: Dr. Grinberg
-
- * Project 9
-
- * Description: This project is designed to be a cashier, with a lot of different features including inventory management
-
- * Due Date: 11/17/2019
-
- * I pledge that I have completed the programming assignment independently.
-
-   I have not copied the code from a student or any source.
-
-   I have not given my code to any student.
-
-   Print your Name here: __James Carter Garrett________
-
- */
-
 #include <stdlib.h>
 #include "mainmenu.h"
 #include <iostream>
