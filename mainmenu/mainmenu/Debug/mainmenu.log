@@ -1,0 +1,5 @@
+﻿  mainmenu.cpp
+C:\Users\Carter\source\repos\mainmenu\mainmenu\mainmenu.cpp(165,34): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Carter\source\repos\mainmenu\mainmenu\mainmenu.cpp(541,27): warning C4101: 'i': unreferenced local variable
+C:\Users\Carter\source\repos\mainmenu\mainmenu\mainmenu.cpp(681,6): warning C4101: 'i': unreferenced local variable
+  mainmenu.vcxproj -> C:\Users\Carter\source\repos\mainmenu\Debug\mainmenu.exe
